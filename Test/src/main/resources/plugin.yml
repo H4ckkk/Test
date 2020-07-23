@@ -1,0 +1,5 @@
+name: Test
+version: ${project.version}
+main: ru.mario.Main
+authors: [mario]
+description: Test
